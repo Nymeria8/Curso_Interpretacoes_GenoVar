@@ -14,6 +14,7 @@ _____________________________________________________________________
 ## **Programa do curso**
 
 ------------------------- **Manhã**------------------------------------------
+
 **Sessão 1 - Fundamentos para interpretação de variantes**
 - Apresentação do curso
 - Introdução sobre os tipos de variantes, seja por impacto na proteína, função, hereditariedade, ou classificação clínica
